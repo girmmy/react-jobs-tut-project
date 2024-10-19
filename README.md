@@ -1,3 +1,7 @@
+# react-jobs-tut-project
+React Jobs Youtube Tutorial Project from Traversy media's Crash Course
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
