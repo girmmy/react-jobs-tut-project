@@ -1,12 +1,4 @@
-# react-jobs-tut-project
-React Jobs Youtube Tutorial Project from Traversy media's Crash Course
+# react-jobs-tut-project w/ Vite + React
+React Jobs Youtube Tutorial Project from Traversy Media's [React Crash Course](https://www.youtube.com/watch?v=LDB4uaJ87e0&list=LL&index=9&t=147s)
 
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
